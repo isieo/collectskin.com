@@ -4,8 +4,6 @@ title:  "ADBFS a FUSE Filesystem for Android Debug Bridge"
 date:   2010-07-16 15:00:33 +0800
 categories: software android
 ---
-# ADBFS: A FUSE Filesystem for Android Debug Bridge
-*Posted on July 16, 2010*
 
 ![Android Debugging Bridge in action](Image_Link_Or_Description)
 

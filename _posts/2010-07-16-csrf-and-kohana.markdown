@@ -5,7 +5,6 @@ date:   2010-07-16 10:00:00 +0800
 categories: Coding "Techinical Stuff"
 ---
 
-# Preventing CSRF in Kohana
 *Posted on July 16, 2010*
 
 Recently, I found a neat CSRF module for Kohana:

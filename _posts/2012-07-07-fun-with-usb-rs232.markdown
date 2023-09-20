@@ -4,8 +4,6 @@ title:  "Fun with USB RS232"
 date:   2023-09-21 01:07:33 +0800
 categories: diy electronics
 ---
-# Fun with USB RS232
-*Posted on June 7, 2012*
 
 Yes, I am alive—pirated butter fish didn’t kill me.
 
@@ -39,7 +37,7 @@ In *nix based systems (Linux, Mac, etc):
 $ echo 1 > /dev/tty(WHATEVER)
 ```
 
-```cmd
+```
 C:\> echo 1 > COM(WHATEVER)
 ```
 

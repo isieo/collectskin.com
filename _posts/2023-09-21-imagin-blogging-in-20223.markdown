@@ -5,8 +5,6 @@ date:   2023-09-21 01:07:33 +0800
 categories: updates life
 ---
 
-# Imagine blogging in 2023 lol?
-
 After 11 years, i am finally blogging again? what, why? Most people will just end up using medium, note or other blogging platform, but i am not "most people".
 
 i have a server running some "hobby projects" and it doesn't have a front facing webpage, so i decided to become a necromacer and revive this ancient blog, i manage to revive some of the old (very outdated) articles from this site pior to the wordpress installation getting hacked (oh wordpress..). i got most of the old content from archive.org https://web.archive.org/web/20131104154808/http://collectskin.com/ i am not able to restore comments, so i'll just keep the articles.

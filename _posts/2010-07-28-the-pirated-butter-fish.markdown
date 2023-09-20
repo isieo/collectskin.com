@@ -4,8 +4,6 @@ title:  "The Curse of the “Pirated Butter Fish”"
 date:   2010-07-28 15:00:33 +0800
 categories: trip food
 ---
-# The Curse of the "Pirated Butter Fish"
-*Posted on July 28, 2010*
 
 Recently, I went for a trip to Langkawi, where we stayed at The Andaman for 4 days and 3 nights. I'll stay on topic and not talk about the run-down hotel facilities; instead, I'll discuss the breakfast, lunch, and dinner they serve there.
 
