@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "ADBFS a FUSE Filesystem for Android Debug Bridge"
+date:   2010-07-16 15:00:33 +0800
+categories: software android
+---
+# ADBFS: A FUSE Filesystem for Android Debug Bridge
+*Posted on July 16, 2010*
+
+![Android Debugging Bridge in action](Image_Link_Or_Description)
+
+Android Debug Bridge (ADB) in action
+
+Android Debug Bridge (ADB) is usually used for debugging Android devices. I personally use it to move files around because mounting your SD card can sometimes be a hassle. Moving files around in the command line isn't fun either; imagine typing the following:
+
+```shell
+adb push bla /sdcard/ultRa\ Long\ Directory/AnOther\ Long\Directory/bla
+```
+
+Not fun... So to solve this problem, I wrote ADBFS. With ADBFS, I can simply drag and drop files as usual.
+
+# Requirements
+*nix OS (or any OS that supports FUSE – I think Windows has a port, not sure)
+FUSE (macFUSE for Mac users – for Windows, I don't know)
+Android SDK from the Android Developers site
+Git
+
+# Installation
+
+```shell
+git clone git@github.com:isieo/adbFS.git .
+cd adbFS
+make
+mv adbfs <location of Android SDK>/tools/adbfs
+```
+
+
+# Usage
+
+```
+mkdir ~/mounted-adb
+adbfs mounted-adb
+
+```
+
+Done! Enjoy drag and drop without needing to "mount" your SD card to your machine.
+
+Note: ADBFS can be very slow at times. This is because your file manager is trying to access all the files to get data from it. ADB was never designed to do this, so it's not fast. Also, this program is a proof-of-concept. If anyone has a better implementation, please suggest.
+
+# License
+
+```plaintext
+/*
+ *      Redistribution and use in source and binary forms, with or without
+ *      modification, are permitted provided that the following conditions are
+ *      met:
+ *      
+ *      * Redistributions of source code must retain the above copyright
+ *        notice, this list of conditions, and the following disclaimer.
+ *      * Redistributions in binary form must reproduce the above
+ *        copyright notice, this list of conditions, and the following disclaimer
+ *        in the documentation and/or other materials provided with the
+ *        distribution.
+ *      * Neither the name of the  nor the names of its
+ *        contributors may be used to endorse or promote products derived from
+ *        this software without specific prior written permission.
+ *      
+ *      THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ *      "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ *      LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+ *      A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+ *      OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ *      SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+ *      LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+ *      DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+ *      THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ *      (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+ *      OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ */
+
+```
+
+# WARNING
+Very experimental =P it's usable though; I use this regularly to modify my playlist file.
