@@ -2,7 +2,7 @@
 layout: post
 title:  "The Curse of the “Pirated Butter Fish”"
 date:   2010-07-28 15:00:33 +0800
-categories: trip food
+categories: food
 ---
 
 Recently, I went for a trip to Langkawi, where we stayed at The Andaman for 4 days and 3 nights. I'll stay on topic and not talk about the run-down hotel facilities; instead, I'll discuss the breakfast, lunch, and dinner they serve there.
@@ -53,6 +53,8 @@ From Wikipedia:
 
 > Because of the possible effects of consumption, escolar has been banned from consumption in Japan since 1977, as the Japanese government considers it toxic.
 
+![Escolar](/images/archives/Escolar1.jpg)
+
 If Japan banned a fish from consumption, it means that it's extremely serious! (The fugu, which can kill you if the chef is incompetent, is still not banned).
 
 The majority of The Andaman's customer base are Japanese, and yet they serve this fish to everyone—3 times a day!! It seems like that's the only fish they stock up!
@@ -67,6 +69,9 @@ Effects of consumption are:
 - Bright orange oil in stool (That's some scary shits! Literally scary shits!)
 - Anal leakage!
 
+
+![Oily Shits](/images/archives/oilyShits.png)
+
 I am not saying that you will 100% get these effects if you go to a sushi restaurant and eat Escolar, as you will only get them if your portion is no greater than 6 ounces (170 grams). But if you stayed at The Andaman, your chances are that you will get affected, as the only fish they serve is Escolar 3 times a day.
 
 Note that I am not the only one who is complaining about this fish; a quick Google search reveals results from Andy and Adrian, Gothamist, and some women's health blog. This fish should be banned completely from consumption!
@@ -75,3 +80,5 @@ Note that I am not the only one who is complaining about this fish; a quick Goog
 I really think that it's the latter. Real butterfish is significantly more expensive than Escolar (they are restricted from selling to some countries). If they are cutting costs, they could have just changed the menu. But in this case, they lied to their consumers. The purchaser (most likely the head chef) decided to purchase "Fake butterfish" (Escolar) and pocket the remainder of the budget for the real butterfish.
 
 So yeah, thanks to the corrupted assholes, our trip is messed up by some pirated butterfish!
+
+<img src="/images/archives/butterfishattack.png" alt="Pirated Butterfish attack!" style="background: white" />

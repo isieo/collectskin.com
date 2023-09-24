@@ -2,7 +2,7 @@
 layout: post
 title:  "Imagine blogging in 2023 lol?"
 date:   2023-09-21 01:07:33 +0800
-categories: updates life
+categories: updates
 ---
 
 After 11 years, i am finally blogging again? what, why? Most people will just end up using medium, note or other blogging platform, but i am not "most people".

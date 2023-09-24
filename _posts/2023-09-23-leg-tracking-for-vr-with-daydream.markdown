@@ -2,7 +2,7 @@
 layout: post
 title:  "Leg Tracking with Daydream Controller"
 date:   2023-09-23 04:31:00 +0800
-categories: vr
+categories: Devlog
 tags: vr daydream slimevr
 ---
 

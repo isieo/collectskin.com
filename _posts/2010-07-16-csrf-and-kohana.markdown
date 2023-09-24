@@ -2,7 +2,7 @@
 layout: post
 title:  "Preventing CSRF in Kohana"
 date:   2010-07-16 10:00:00 +0800
-categories: Coding "Techinical Stuff"
+categories: devlog
 ---
 
 *Posted on July 16, 2010*

@@ -2,12 +2,14 @@
 layout: post
 title:  "Fun with USB RS232"
 date:   2023-09-21 01:07:33 +0800
-categories: diy electronics
+categories: electronics
 ---
 
 Yes, I am alive—pirated butter fish didn’t kill me.
 
 Recently, in my great pile of E-Junk, I found a USB to RS232 converter that wasn’t in use. I decided to do something with it. With a little bit of reading, I made this:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jm1dcJ2LqLo?si=wh46AVz7dcGtxx5-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Initially, I hooked up the motor to the TXD and GND pins of the RS232 port and hoped that it worked—it didn’t. It turns out that it doesn’t have enough current to drive the motor (it lit up LEDs though, I didn’t mess around with LEDs much as my LEDs might die from it :/). I figured I need some sort of external power supply; this is where the N-MOSFET comes in.
 
@@ -22,12 +24,23 @@ Anyways, this is what you need to make your own:
 ### Circuit Diagram
 Assemble your board according to the diagram.
 
+<img src="/images/archives/circuit1.png" alt="Circuit Diagram]" style="background: white" />
+
+![Mosfet](/images/archives/IMAG0041-300x169.jpg)
+
 You can then connect the positive and negative cables to any battery powered device you have lying around (I happened to have a spare propeller). For the battery, I used a standard 9v battery.
 
 Mine turned out like this:
 
+![RS232 Switch](/images/archives/IMAG0002-1024x577.jpg)
+
+
 ## Connecting to RS232 Port
 Connect the Gate pin of the MOSFET to the RS232’s TXD and Connecting GND pin to the source pin.
+
+
+![TXN and GND pins](/images/archives/IMAG0037-1024x577.jpg)
+
 
 ## On the computer…
 All you need to do now is to send something to the port.
