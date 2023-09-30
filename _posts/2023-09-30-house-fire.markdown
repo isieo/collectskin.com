@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The day my fridge tried to burn down the house"
-date:   2023-09-23 04:31:00 +0800
+date:   2023-09-30 02:37:00 +0800
 categories: Life
 tags: fire house home
 ---
