@@ -43,5 +43,3 @@ The fire's inception likely occurred within the ice maker's mechanical heart, su
 Forunately, no one was injured in this incident.
 
 
-P.S. i ran the original article in chatgpt to make it sound more dramatic :P
-
