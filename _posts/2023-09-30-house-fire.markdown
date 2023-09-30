@@ -8,7 +8,7 @@ tags: fire house home
 
 ![The Burnt-Down Fridge](/images/20230930/fridgeburnt.jpg)
 
-It was the dead of night, approximately 1:30 AM, and I was engrossed in a TV series within the confines of my room. An unexpected and ominous scent began to infiltrate the air, a scent that hinted at impending disaster. My initial assumption was that my trusty computer had succumbed to the perils of overheating, leading to a smoldering catastrophe. Rushing to my computer, I leaned in, but to my relief, it remained unscathed.
+It was the dead of night, approximately 1:30 AM Thursday, and I was engrossed in a TV series within the confines of my room. An unexpected and ominous scent began to infiltrate the air, a scent that hinted at impending disaster. My initial assumption was that my trusty computer had succumbed to the perils of overheating, leading to a smoldering catastrophe. Rushing to my computer, I leaned in, but to my relief, it remained unscathed.
 
 As I opened the door to my room, I was greeted not by the usual sight but by an engulfing darkness that seemed to transcend the bounds of our reality. The room was shrouded in a veil of thick, impenetrable black smoke.
 
